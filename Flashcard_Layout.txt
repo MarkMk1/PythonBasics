@@ -1,0 +1,7 @@
+Vars with 2 names, image, audio, score					class or tuple? 
+test mode ~ card limit, score yourself, move on to next card.		figure out timing 
+scoring system, declines over days
+
+post mvp
+add mode ~ where improvements will be made
+export system
