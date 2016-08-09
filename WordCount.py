@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import operator
 
+# Want to go through, add automated limit of pages.
+
 
 def start(url):
     word_list = []
